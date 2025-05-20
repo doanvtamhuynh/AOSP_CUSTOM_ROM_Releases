@@ -6,3 +6,8 @@ fastboot reboot fastboot
 fastboot flash boot boot_magisk-v28_sargo_stock_rom_android10.img
 fastboot reboot
 ```
+#### Update PIF
+```
+adb push /path/pif.json data/local/tmp
+adb reboot
+```
