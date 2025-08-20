@@ -1,6 +1,6 @@
 {
-  "FINGERPRINT": "google/cheetah_beta/cheetah:16/BP31.250502.008/13497110:user/release-keys",
+  "FINGERPRINT": "google/caiman_beta/caiman:16/BP31.250610.004/13769805:user/release-keys",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 7 Pro",
-  "SECURITY_PATCH": "2025-05-05"
+  "MODEL": "Pixel 9 Pro",
+  "SECURITY_PATCH": "2025-07-05"
 }
